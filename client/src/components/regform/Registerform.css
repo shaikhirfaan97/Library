@@ -1,0 +1,56 @@
+.register{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 450px;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.75);
+    padding: 1.5rem 0;
+    gap: 1rem;
+    color: white;
+    
+    
+}
+
+.heads{
+    text-align:center
+}
+.reg-form{
+    width: 40vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.reg-form input{
+    width: 80%;
+    padding: 1rem;
+    border:none;
+    outline: none;
+    
+}
+
+.reg-form button{
+    padding: 1rem 6rem;
+    border: none;
+    border-radius: 3rem;
+}
+
+.reg-form p{
+    margin-top: 1rem;
+}
+
+.reg-form a strong{
+    color: blue;
+
+}
+
+.error{
+    margin-bottom: 0.5rem;
+    width: 80%;
+    border: 1px black solid;
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,19 @@
+nav{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:slateblue;
+    padding: 0 5rem;
+    
+}
+
+.nav-links{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-links a, nav h1{
+    color: white;
+}

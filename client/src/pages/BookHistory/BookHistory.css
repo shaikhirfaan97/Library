@@ -1,0 +1,21 @@
+.history-title-container{
+   padding: 0 5rem;
+   margin-top: 2rem;
+}
+
+.history-title{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5rem;
+    background: #1E1E1E;
+    margin: 0.5rem 0;
+    padding: 1rem 5rem;
+    
+}
+
+.book-history-template{
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    padding: 0 5rem;
+}

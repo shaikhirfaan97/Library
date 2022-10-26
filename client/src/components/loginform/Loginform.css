@@ -1,0 +1,51 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 450px;
+    background-color:blue;
+    padding: 1.5rem 0;
+    gap: 1rem;
+    color: white;
+    
+}
+.heads{
+    text-align:center}
+
+.log-form{
+    width: 95%;
+    
+    margin-top: 30%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.log-form input{
+    width: 35vw;
+
+    padding: 1rem;
+    border:none;
+    outline: none;
+}
+
+.log-form button{
+    padding: 1rem 6rem;
+    border: none;
+    border-radius: 3rem;
+}
+
+.log-form p{
+    margin-top: 1rem;
+}
+
+.error-login{
+    margin-bottom: 0.5rem;
+    width: 80%;
+    border: 1px black solid;
+    background-color: white;
+    color: black;
+}

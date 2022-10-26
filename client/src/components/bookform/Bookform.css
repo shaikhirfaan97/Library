@@ -1,0 +1,43 @@
+.book-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: navy;
+    padding: 1rem;
+    height: 50vh;
+    width:20vw;
+
+}
+
+.create-book{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.create-book input{
+    width: 100%;
+    padding: 0.5rem;
+    border: none;
+    outline: none;
+}
+
+.create-book button{
+    padding: 0.5rem 2rem;
+    background: white;
+    border-radius: 2rem;
+    border:none;
+}
+
+div.form-error{
+    padding: 1rem;
+    background:white;
+    border: 1px red solid;
+    margin: 1rem 0;
+}
+
+input.form-error{
+    border: 1px red solid;
+}

@@ -1,0 +1,13 @@
+.start-nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    padding: 1rem 5rem;
+    align-items: center;
+
+    
+}
+
+.start-nav h2{
+    color: white;
+}

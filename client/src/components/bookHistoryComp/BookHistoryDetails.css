@@ -1,0 +1,9 @@
+.book-log{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 5rem;
+    text-align: center;
+    background: cadetblue;
+    border-radius: 1em;
+}
+
